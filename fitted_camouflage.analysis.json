@@ -1,0 +1,142 @@
+{
+  "reference": "images.jpg",
+  "original_size": [
+    554,
+    554
+  ],
+  "analysis_size": [
+    554,
+    554
+  ],
+  "selected_style": "organic",
+  "style_scores": {
+    "digital": 0.2083067270051917,
+    "stripe": 0.046141546219587326,
+    "normal_angle": 6.465375532950853
+  },
+  "palette_colors": [
+    "#596041",
+    "#7D894C",
+    "#685237",
+    "#898671",
+    "#A89D80",
+    "#827F59"
+  ],
+  "palette_coverages": [
+    0.1742561482620652,
+    0.20603031448344172,
+    0.34526710891579454,
+    0.2313173637086369,
+    0.041666123629918284,
+    0.0014629410001433616
+  ],
+  "quantization": {
+    "k": 6,
+    "blur_sigma": 1.108,
+    "kmeans_errors": [
+      84.06543871049065,
+      56.026602733907595,
+      38.26480321255704,
+      26.449548473097412,
+      23.18707832791437
+    ],
+    "kmeans_improvements": [
+      0.3335358312129293,
+      0.31702438939066746,
+      0.30877604867917663,
+      0.12334691265151054
+    ]
+  },
+  "detail": [
+    {
+      "color": "#596041",
+      "coverage": 0.1742561482620652,
+      "macro_area": 0.14689361258455083,
+      "micro_area": 0.027189849991528625,
+      "macro_components": 5,
+      "micro_components": 33,
+      "spot_radius": [
+        5.9493291792773935,
+        10.71860928541582
+      ],
+      "spot_count": 33,
+      "spot_groups": 5,
+      "spot_spread": 58.20169424784857
+    },
+    {
+      "color": "#7D894C",
+      "coverage": 0.20603031448344172,
+      "macro_area": 0.13283764938940948,
+      "micro_area": 0.07316985755060017,
+      "macro_components": 11,
+      "micro_components": 63,
+      "spot_radius": [
+        5.731310445240248,
+        13.86960781238001
+      ],
+      "spot_count": 63,
+      "spot_groups": 7,
+      "spot_spread": 57.11900929966183
+    },
+    {
+      "color": "#685237",
+      "coverage": 0.34526710891579454,
+      "macro_area": 0.2617035280011469,
+      "micro_area": 0.08354077337121557,
+      "macro_components": 12,
+      "micro_components": 78,
+      "spot_radius": [
+        5.79746849218497,
+        12.577605607296658
+      ],
+      "spot_count": 78,
+      "spot_groups": 8,
+      "spot_spread": 49.147614283155036
+    },
+    {
+      "color": "#898671",
+      "coverage": 0.2313173637086369,
+      "macro_area": 0.1413285719871235,
+      "micro_area": 0.08960432170365833,
+      "macro_components": 10,
+      "micro_components": 123,
+      "spot_radius": [
+        4.122789217431457,
+        10.830314867609637
+      ],
+      "spot_count": 123,
+      "spot_groups": 10,
+      "spot_spread": 44.99922130280642
+    },
+    {
+      "color": "#A89D80",
+      "coverage": 0.041666123629918284,
+      "macro_area": 0.019125754278043503,
+      "micro_area": 0.022413298752753195,
+      "macro_components": 2,
+      "micro_components": 55,
+      "spot_radius": [
+        3.027685244042784,
+        6.529381683260263
+      ],
+      "spot_count": 55,
+      "spot_groups": 7,
+      "spot_spread": 42.73037339979694
+    },
+    {
+      "color": "#827F59",
+      "coverage": 0.0014629410001433616,
+      "macro_area": 0.0,
+      "micro_area": 0.000335596710500593,
+      "macro_components": 0,
+      "micro_components": 7,
+      "spot_radius": [
+        2.0005474103261753,
+        3.0
+      ],
+      "spot_count": 7,
+      "spot_groups": 2,
+      "spot_spread": 72.02
+    }
+  ]
+}

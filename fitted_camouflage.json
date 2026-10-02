@@ -1,0 +1,112 @@
+{
+  "width": 554,
+  "height": 554,
+  "base_color": "#685237",
+  "layers": [
+    {
+      "type": "multicolor_blobs",
+      "colors": [
+        "#596041",
+        "#7D894C",
+        "#685237",
+        "#898671",
+        "#A89D80",
+        "#827F59"
+      ],
+      "coverages": [
+        0.20634,
+        0.1866,
+        0.36762,
+        0.19853,
+        0.02687,
+        0.01405
+      ],
+      "scales": [
+        40.92,
+        19.39,
+        33.97,
+        21.22,
+        22.3,
+        55.4
+      ],
+      "octaves": 4,
+      "persistence": 0.54,
+      "seed": 1000
+    },
+    {
+      "type": "clustered_spots",
+      "color": "#596041",
+      "count": 33,
+      "groups": 5,
+      "spread": 58.2,
+      "min_radius": 5.95,
+      "max_radius": 10.72,
+      "min_aspect": 0.62,
+      "max_aspect": 1.55,
+      "min_lobes": 1,
+      "max_lobes": 3,
+      "lobe_offset": 0.5,
+      "seed": 1101
+    },
+    {
+      "type": "clustered_spots",
+      "color": "#7D894C",
+      "count": 63,
+      "groups": 7,
+      "spread": 57.12,
+      "min_radius": 5.73,
+      "max_radius": 13.87,
+      "min_aspect": 0.62,
+      "max_aspect": 1.55,
+      "min_lobes": 1,
+      "max_lobes": 3,
+      "lobe_offset": 0.5,
+      "seed": 1202
+    },
+    {
+      "type": "clustered_spots",
+      "color": "#685237",
+      "count": 78,
+      "groups": 8,
+      "spread": 49.15,
+      "min_radius": 5.8,
+      "max_radius": 12.58,
+      "min_aspect": 0.62,
+      "max_aspect": 1.55,
+      "min_lobes": 1,
+      "max_lobes": 3,
+      "lobe_offset": 0.5,
+      "seed": 1303
+    },
+    {
+      "type": "clustered_spots",
+      "color": "#898671",
+      "count": 123,
+      "groups": 10,
+      "spread": 45.0,
+      "min_radius": 4.12,
+      "max_radius": 10.83,
+      "min_aspect": 0.62,
+      "max_aspect": 1.55,
+      "min_lobes": 1,
+      "max_lobes": 3,
+      "lobe_offset": 0.5,
+      "seed": 1404
+    },
+    {
+      "type": "clustered_spots",
+      "color": "#A89D80",
+      "count": 55,
+      "groups": 7,
+      "spread": 42.73,
+      "min_radius": 3.03,
+      "max_radius": 6.53,
+      "min_aspect": 0.62,
+      "max_aspect": 1.55,
+      "min_lobes": 1,
+      "max_lobes": 3,
+      "lobe_offset": 0.5,
+      "seed": 1505
+    }
+  ]
+}
